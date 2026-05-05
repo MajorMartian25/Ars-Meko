@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ars_meko:item/module_mana_boost_unit"
+  }
+}

@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: ars_meko
+Specification-Vendor: MajorMartian25
+Specification-Version: 1
+Implementation-Title: Mekanism x Ars Nouveau
+Implementation-Version: 1.20.1-1.0
+Implementation-Timestamp: 2026-05-05T10:18:18+0200
