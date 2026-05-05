@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EEE"
+  ],
+  "key": {
+    "A": { "item": "ars_nouveau:sourceberry_bush" },
+    "B": { "item": "forge:storage_blocks/source" },
+    "C": { "item": "ars_nouveau:abjuration_essence" },
+    "D": { "item": "mekanism:module_base" },
+    "E": { "item": "mekanism:pellet_polonium" }
+  },
+  "result": {
+    "item": "ars_meko:module_mana_regen_unit"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "EEE"
+  ],
+  "key": {
+    "A": { "item": "ars_nouveau:sourceberry_bush" },
+    "B": { "item": "ars_nouveau:source_jar" },
+    "C": { "item": "forge:gems/diamond" },
+    "D": { "item": "mekanism:module_base" },
+    "E": { "item": "mekanism:pellet_polonium" }
+  },
+  "result": {
+    "item": "ars_meko:module_mana_boost_unit"
+  }
+}
